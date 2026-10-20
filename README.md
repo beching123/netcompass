@@ -43,3 +43,15 @@ netcompass/
 ├── backend/         # Server-side API and database schemas
 ├── frontend/        # Mobile/Web application source code
 └── README.md        # Project overview and roadmap
+
+
+
+---
+
+## 👨‍💻 Author & Project Lead
+
+* **Beching Rexzy Bate** 
+  * **Role:** Level 400 Computer Engineering Student
+  * **GitHub:** [@beching123](https://github.com/beching123)
+  * **LinkedIn:** [beching rexzy bate] (www.linkedin.com/in/beching-rexzy-bate-9300163a3)
+  * **Location:** Buea, Cameroon
